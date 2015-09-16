@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 緣本致經
+#+DATE: 2015-08-30 19:29:29.003824
+#+PROPERTY: JUAN 0
